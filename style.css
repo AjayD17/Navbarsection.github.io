@@ -1,0 +1,44 @@
+
+.Design-logo {
+    width: 50%;
+}
+
+.font-text {
+    font-weight: bold;
+    color: white;
+    font-style: "Roboto";
+}
+
+.bng-img {
+    background-image: url("https://assets.ccbp.in/frontend/responsive-website/landing-section-bg.png");
+    background-size: cover;
+    height: 150vh;
+}
+
+.main-heading {
+    color: white;
+    font-size: 55px;
+    margin-top: 20%;
+}
+
+.navbar-bg {
+    background-color: #0c0521;
+}
+
+.Description {
+    color: white;
+    font-size: 28px;
+    font-style: "Roboto";
+}
+
+.btn-2 {
+    background-color: #ffdda9;
+    color: black;
+    font-weight: bold;
+    padding-left: 70px;
+    padding-right: 70px;
+    border-radius: 20px;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
