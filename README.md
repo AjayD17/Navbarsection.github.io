@@ -1,9 +1,9 @@
 # Navbar & Banner section
 🚀 Project Spotlight: Navbar & Banner Section 🚀
 
-I'm excited to share my latest project where I developed a sleek and responsive Navbar & Banner section using HTML, CSS, and Bootstrap! 🖥️📱
+I recently completed this project where I focused on creating a user-friendly and visually appealing navigation bar and banner section. The goal was to ensure a seamless and responsive experience across all devices! 🖥️📱
 
-🔹Technologies Used:
+Technologies Used:
 
 - HTML
 - CSS
